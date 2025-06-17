@@ -1,0 +1,7 @@
+user publisher
+topic write weather/+/raw
+
+topic write weather/+/status
+
+user viewer
+topic read weather/#
